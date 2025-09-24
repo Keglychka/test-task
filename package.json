@@ -1,8 +1,4 @@
 {
-  "name": "my-static-site",
-  "version": "1.0.0",
-  "description": "Static HTML site",
-  "scripts": {},
-  "keywords": [],
-  "author": ""
+  "name": "test-task",
+  "version": "1.0.0"
 }
